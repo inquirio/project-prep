@@ -2,12 +2,12 @@
 
 By:
 
-Branden Ge
-Daniel Frey
-Stephanie Hill
-Timothee Odushina
-Keelen Fisher
-Brandon Pitts
+- Branden Ge
+- Daniel Frey
+- Stephanie Hill
+- Timothee Odushina
+- Keelen Fisher
+- Brandon Pitts
 
 ## Cooperation Plan
 
