@@ -22,6 +22,15 @@ Minimum Viable Product (MVP) definition.
   - Studamy
   - Proxamy
 
+Other notes:
+
+- e-learning course aggregator
+- Provide learning platforms online
+- Users can save courses to pursue
+- Possibly link certifications/job opportunities
+- Stretch Goal: aggregator application can also have access to job opportunities that have course recommendations based on their choice.
+- Stretch goal: considering accessibility (e.g. mooc has a spanish translator / NBU primarily use mobile devices to access the internet/ screen readers etc)
+
 ## Pitch #2 - E-commerce site
 
 Summary
